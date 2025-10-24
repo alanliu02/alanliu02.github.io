@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Full CV (PDF)](/files/CV-Liu_Yuxuan_2025.pdf)
+[Download Full CV (PDF)](/files/CV_Liu_Yuxuan_2025.pdf)
 
 Education
 ======
