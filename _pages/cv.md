@@ -43,6 +43,12 @@ Research Projects
 
 Work Experience
 ======
+* **Software Development Engineer** (May 2025 - Present)
+  * TissueLab: A medical image research platform developed by Zhi Huang Lab at University of Pennsylvania Perelman School of Medicine
+  * Developing frontend and backend as well as task node for the system using Next.js, React and Python. Implement cloud storage management for the system.
+  * Optimizing overall speed, e.g. Refactor frontend data visulization using WebGL, migrate backend file storage from HDF5 to Zarr
+  * Integrating multiple image format support e.g. NII, ISyntax, etc.
+
 * **Formulation Engineer (Internship)** (Sep 2020 - Dec 2022)
   * Software Control System for In Situ Hybridization Instruments
   * Independently developed and maintained embedded software control system
